@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Chunde Huang / MPI"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chunde Huang"
 description              : &description "personal description"
 url                      : https://chunde.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "Chunde/chunde.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "I am a seasoned software engineer with over ten years of experience in software development (C++/C#/Python). In 2013, I transitioned from industry to academia to pursue a Ph.D. in physics, expanding my expertise to include quantum computing, cold atom experiment, and the quantum simulation of superfluidity. My diverse background in computer science and physics positions me to excel in interdisciplinary research. I am eager to leverage my extensive knowledge to tackle exciting and challenging projects that will change the future well beings of humankind, such as quantum computing, artificial intelligence, robotics and biological engineering etc."
+  name             : "Chunde Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Never Give Up"
+  bio              : "I am a seasoned software engineer with over ten years of experience in software development (C++/C#/Python). In 2013, I transitioned from industry to academia to pursue a Ph.D. in physics, expanding my expertise to include quantum computing, cold atom experiment, and the quantum simulation of superfluidity. My diverse background in computer science and physics positions me to excel in interdisciplinary research. I am eager to leverage my extensive knowledge to tackle exciting and challenging projects that will change the future well beings of humankind, such as quantum computing, artificial intelligence, robotics and biological engineering etc."
   location         : "USA"
   employer         : "Washington State University"
   uri              : # URL
