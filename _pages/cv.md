@@ -17,16 +17,16 @@ Education
 
 Work experience
 ======
-* SENIOR SOFTWARE ENGINEER • JULY 2021-PRESENT
-  * KLA-tencor • Milpitas
+#### SENIOR SOFTWARE ENGINEER • JULY 2021-PRESENT
+* KLA-tencor • Milpitas
   * Senior C++ Software Engineer at KLA, focused on designing and developing complex system control software for advanced machines valued in the tens to hundreds of millions. This role demands expertise across multiple disciplines, including computer science, electrical and mechanical engineering, optics, laser technology, and vacuum systems.
 
-* IMAGING ANALYST • JUN 2020-JUN 2021
-  * CGG • Houston, TX
+#### IMAGING ANALYST • JUN 2020-JUN 2021
+* CGG • Houston, TX
   * Focusing on imaging analysis and extensive data preprocessing. Responsibilities included data denoising, domain migration, and modeling to generate detailed subsurface structures, supporting clients in subsurface exploration and risk reduction.
 
-* SOFTWARE ENGINEER • APR 2012-JUL 2013
-  * ChinaNetCenter • Xiamen, China
+#### SOFTWARE ENGINEER • APR 2012-JUL 2013
+* ChinaNetCenter • Xiamen, China
   * Developed and maintained a distributed DNS system for global load balancing while researching and designing the architecture for the next-generation DNS system.
   
 Skills

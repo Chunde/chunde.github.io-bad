@@ -8,13 +8,13 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Talks"
+  - title: "Home"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Research"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
   # - title: "Blog Posts"
@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "About"
+    url: /markdown/
