@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Physics 201"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-fall-phys201
