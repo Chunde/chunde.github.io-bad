@@ -15,7 +15,7 @@ main:
     url: /teaching/    
     
   - title: "Projects"
-    url: /_projects/
+    url: /projects/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
