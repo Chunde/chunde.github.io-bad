@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chunde Huang / MPI"
+title                    : "Chunde Huang"
 title_separator          : "-"
 name                     : &name "Chunde Huang"
 description              : &description "personal description"
